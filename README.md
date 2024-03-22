@@ -22,9 +22,7 @@ Data are sourced from OpenFDA Drug Recall Enforcement Reports: https://open.fda.
   - Which state(s) exhibited the highest volume of drug recalls
 
 ## Instructions on How to Use and Interact with Data
-
-
-
+Download the CSV file and create a MongoDB database on local computer. Download and run Pymongo_analysis_code.ipynb and bokeh_analysis.ipynb to replicate or modify graphs as desired.
 
 ## Data Tools Used
 - Cleaning Data: 
@@ -32,7 +30,7 @@ Data are sourced from OpenFDA Drug Recall Enforcement Reports: https://open.fda.
 - Database Creation: 
   - MongoDB
 - Analyzing Data:
-  - Python: PyMongo, Matplotlib, Numpy, Seaborn
+  - Python: PyMongo, Matplotlib, Numpy, Seaborn, Bokeh
 - Report/README File:
   - Google Docs, VSCode
 - Presentation:
@@ -56,4 +54,4 @@ We utilized Bokeh, https://bokeh.org/, and its resources to make the data intera
 
 
 ## Presentation
-Our visualizations can be found on our [presentation slides]
+Our visualizations can be found on our (https://docs.google.com/presentation/d/e/2PACX-1vR9DoZ1jyi95xZuaRRIj407xgRRbq39-R3ORk11U_6sU64DP7YDwd09LdoYY94ygUkT2CWyo4zXpL14/pub?start=false&loop=false&delayms=3000)
